@@ -40,4 +40,4 @@ public class HomeWorkApp {
     }
 
    }
-//комментарий 1
+//комментарий
